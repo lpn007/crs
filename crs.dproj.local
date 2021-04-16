@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/25 22:11:42.000.779,=E:\文档\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/25 22:12:09.000.634,=E:\文档\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/25 22:15:45.000.956,E:\文档\Embarcadero\Studio\Projects\crs\Umain.pas=E:\文档\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/25 22:15:45.000.956,E:\文档\Embarcadero\Studio\Projects\crs\Umain.dfm=E:\文档\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/02/25 22:16:04.000.383,E:\文档\Embarcadero\Studio\Projects\crs\crs.dproj=E:\文档\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2021/02/27 11:12:04.000.845,=E:\文档\Embarcadero\Studio\Projects\crs\Unit1.pas</Transaction>
+    <Transaction>2021/02/27 11:36:05.000.881,E:\文档\Embarcadero\Studio\Projects\crs\Usetup.pas=E:\文档\Embarcadero\Studio\Projects\crs\Unit1.pas</Transaction>
+    <Transaction>2021/02/27 11:36:05.000.881,E:\文档\Embarcadero\Studio\Projects\crs\Usetup.dfm=E:\文档\Embarcadero\Studio\Projects\crs\Unit1.dfm</Transaction>
+    <Transaction>2021/02/28 12:35:11.000.008,=E:\文档\Embarcadero\Studio\Projects\crs\Unit1.pas</Transaction>
+    <Transaction>2021/02/28 12:36:28.000.241,E:\文档\Embarcadero\Studio\Projects\crs\UFuns.pas=E:\文档\Embarcadero\Studio\Projects\crs\Unit1.pas</Transaction>
+    <Transaction>2021/03/16 09:46:56.000.311,=E:\文档\Embarcadero\Studio\Projects\crs\Unit1.pas</Transaction>
+    <Transaction>2021/03/16 10:11:36.000.027,E:\文档\Embarcadero\Studio\Projects\crs\Uss.pas=E:\文档\Embarcadero\Studio\Projects\crs\Unit1.pas</Transaction>
+    <Transaction>2021/03/16 10:11:36.000.027,E:\文档\Embarcadero\Studio\Projects\crs\Uss.dfm=E:\文档\Embarcadero\Studio\Projects\crs\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

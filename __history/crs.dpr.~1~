@@ -1,0 +1,15 @@
+program crs;
+
+uses
+  Vcl.Forms,
+  Umain in 'Umain.pas' {Form2};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.Title := '数据表汇总';
+  Application.CreateForm(TForm2, Form2);
+  Application.Run;
+end.
